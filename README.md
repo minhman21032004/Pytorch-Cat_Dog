@@ -1,3 +1,4 @@
+
 # PyTorch-Cat_Dog
 
 Cat and Dog Image Classification using PyTorch.
@@ -17,14 +18,16 @@ This project demonstrates the use of **PyTorch** in computer vision tasks.
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
-pip install -r requirements.txt```
+git clone https://github.com/minhman21032004/Pytorch-Cat_Dog.git
+cd Pytorch-Cat_Dog
+pip install -r requirements.txt
+```
 
 ### How to run:
 Run the streamlit app :
-'''bash
-streamlit run app.py```
+```bash
+streamlit run app.py
+```
 
 ### Demo application:
 ![image](https://github.com/user-attachments/assets/be46ba4d-daea-4f1c-a049-bf31b0fdb16e)
@@ -40,5 +43,3 @@ rameworks & Libraries
 
 ## Created By :
 Manbell
-
-
