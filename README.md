@@ -19,12 +19,12 @@ Clone the project and install dependencies:
 ```bash
 git clone https://github.com/your-username/your-project.git
 cd your-project
-pip install -r requirements.txt'''
+pip install -r requirements.txt```
 
 ### How to run:
 Run the streamlit app :
 '''bash
-streamlit run app.py'''
+streamlit run app.py```
 
 ### Demo application:
 ![image](https://github.com/user-attachments/assets/be46ba4d-daea-4f1c-a049-bf31b0fdb16e)
